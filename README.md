@@ -2,10 +2,10 @@
 
 <h1>Om Chavda</h1>
 
-<p>Full Stack Developer | B.Tech ICT at Dhirubhai Ambani University</p>
+<p><b>Full Stack Developer | Competitive Programmer</b></p>
 
 <p>
-Building cloud-native developer tools, real-time collaboration, and secure web platforms.
+Building optimized web applications and solving algorithmic problems
 </p>
 
 <p>
@@ -25,12 +25,12 @@ Building cloud-native developer tools, real-time collaboration, and secure web p
 
 ---
 
-## Snapshot
+## About Me
 - B.Tech ICT student at Dhirubhai Ambani University (Aug 2023 - Present)
 - Focused on backend engineering, API design, and system design fundamentals
 - Solved 1900+ algorithmic problems on LeetCode and Codeforces with a peak rating of 2005 and 1438 respectively
 
-## Selected Work
+## Featured Projects
 
 ### Dokit - Cloud IDE and Collaborative Workspace Platform
 **Tech:** Next.js, Express, PostgreSQL, Redis, TypeScript, Docker, WebSockets, Cloudflare R2
