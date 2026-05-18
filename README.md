@@ -32,9 +32,10 @@ Building optimized web applications and solving algorithmic problems
 
 ## Featured Projects
 
-### Dokit - Cloud IDE and Collaborative Workspace Platform
-**Tech:** Next.js, Express, PostgreSQL, Redis, TypeScript, Docker, WebSockets, Cloudflare R2
-**GitHub:** https://github.com/Om005/Dokit
+### Dokit - Cloud IDE and Collaborative Workspace Platform 
+[![GitHub](https://github.com/Om005/Dokit)] 
+[![Live Project Link](https://dokit-ide.vercel.app)] 
+**Tech:** Next.js, Express, PostgreSQL, Redis, TypeScript, Docker, WebSockets, Cloudflare R2 
 
 - Provisioned isolated Linux workspaces via Docker Engine API with automated lifecycle management.
 - Implemented secure sessions using short-lived access tokens and rotating refresh tokens.
@@ -42,9 +43,9 @@ Building optimized web applications and solving algorithmic problems
 - Built real-time collaboration using Yjs and CodeMirror with presence and live cursors.
 - Shipped a bidirectional file sync pipeline using inotify, Socket.IO, and BullMQ.
 
-### PayNest - Peer-to-Peer Online Payment Platform
-**Tech:** Next.js, NextAuth, Razorpay SDK, MongoDB, Tailwind CSS
-**GitHub:** https://github.com/Om005/paynest
+### PayNest - Peer-to-Peer Online Payment Platform 
+[![GitHub](https://github.com/Om005/paynest)] 
+**Tech:** Next.js, NextAuth, Razorpay SDK, MongoDB, Tailwind CSS 
 
 - Integrated Razorpay for peer-to-peer transfers with custom messages.
 - Implemented Google OAuth with NextAuth and encrypted API keys before storage.
