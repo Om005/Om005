@@ -4,12 +4,10 @@
 
   <br/>
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-omchavda.tech-4F46E5?style=for-the-badge&logo=globe&logoColor=white)](https://omchavda.tech)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-chavda-06a390302/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chavdaom84@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Om005)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chavdaom84/)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Om_007)
-  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/chavdaom84)
+  [![Resume](https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1g6k-fudghOHhVbhB36ZKqH7jS5y42bf0/view?usp=sharing)
 
 </div>
 
@@ -17,7 +15,7 @@
 
 ## About Me
 
-- B.Tech Student in Information and Communication Technology (ICT) at Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT), Gandhinagar (Aug 2023 - Present) — CGPA: 8.64
+- B.Tech Student in Information and Communication Technology (ICT) at Dhirubhai Ambani University (DAU), Gandhinagar (Aug 2023 - Present) — CGPA: 8.64
 - Backend Engineer & Full Stack Developer with a passion for architecting secure, scalable APIs, and system design.
 - 2100+ algorithmic problems solved across LeetCode, and Codeforces.
 
@@ -128,18 +126,24 @@
 
 ## Key Achievements
 
-- 2nd Prize in Winter of Code 7.0 at MSTC DA-IICT (65+ participants).
 - 427th Rank in the Amritapuri region in the ICPC 2025 Preliminary Round.
 - Global Rank 108 in CodeChef Starters 174 Div.3.
 - Global Rank 716 in LeetCode Biweekly Contest 151 (out of 29K+ participants).
-- 1100+ LeetCode problems solved with a peak rating of 2039 (Knight).
-- 940+ Codeforces problems solved with a peak rating of 1438 (Specialist).
+- 1100+ LeetCode problems solved with a peak rating of 2073 (Knight).
+- 940+ Codeforces problems solved with a peak rating of 1451 (Specialist).
+- 3rd Prize in Winter of Code 7.0 at MSTC DA-IICT (65+ participants).
 
 
 ## Competitive Programming
 
 <div align="center">
-  
+
+  [![LeetCode](https://img.shields.io/badge/LeetCode-chavdaom84-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chavdaom84/)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-Om__007-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Om_007)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-chavdaom84-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/chavdaom84)
+
+  <br/>
+
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://leetcode.com/u/chavdaom84/">
 
@@ -153,11 +157,13 @@
 
 ## Github
 
+
 <div align="center">
   
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <a href="https://github.com/Om005">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Om005&show_icons=true&theme=dark&title_color=00e5ff&icon_color=00e5ff&border_color=21262d&bg_color=0d1117" alt="Om005's GitHub stats" height="190" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om005&theme=dark" height="165" alt="GitHub stats" />
+    <!-- <img src="https://github-readme-stats-fast.vercel.app/api?username=Om005&show_icons=true&theme=dark&title_color=00e5ff&icon_color=00e5ff&border_color=21262d&bg_color=0d1117" alt="Om005's GitHub stats" height="190" /> -->
   </a>
   <a href="https://github.com/Om005">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Om005&layout=compact&theme=dark&title_color=00e5ff&icon_color=00e5ff&border_color=21262d&bg_color=0d1117" alt="Top Languages" height="190" />
